@@ -1,0 +1,32 @@
+export const Data = [
+    {
+        "id":1,
+        "name":"cubo1",
+        "img":"./img/1.png"
+    },
+    {
+        "id":2,
+        "name":"cubo2",
+        "img":"./img/2.png"
+    },
+    {
+        "id":3,
+        "name":"cubo3",
+        "img":"./img/3.jpg"
+    },
+    {
+        "id":4,
+        "name":"cubo4",
+        "img":"./img/4.jpg"
+    },
+    {
+        "id":5,
+        "name":"cubo5",
+        "img":"./img/5.png"
+    },
+    {
+        "id":6,
+        "name":"cubo6",
+        "img":"./img/6.png"
+    }
+]
